@@ -8,5 +8,5 @@ function centerQuote (args, content) {
           '</blockquote>';
 }
 
-//hexo.extend.tag.register('centerquote', centerQuote, {ends: true});
-//hexo.extend.tag.register('cq', centerQuote, {ends: true});
+hexo.extend.tag.register('centerquote', centerQuote, {ends: true});
+hexo.extend.tag.register('cq', centerQuote, {ends: true});
