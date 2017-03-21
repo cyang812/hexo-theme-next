@@ -3,7 +3,7 @@
   <a class="jiathis_button_tsina"></a>
   <a class="jiathis_button_tqq"></a>
   <a class="jiathis_button_weixin"></a>
-  <!-- <a class="jiathis_button_cqq"></a> -->
+  <a class="jiathis_button_cqq"></a>
   <a class="jiathis_button_douban"></a>
   <a class="jiathis_button_renren"></a>
   <a class="jiathis_button_qzone"></a>
